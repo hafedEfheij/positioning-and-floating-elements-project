@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Positioning and Floating Elements
 
-> One paragraph statement about the project.
+> A New York Times article clone built using only HTML5 and CSS3 as part of The Odin Project Challenge. Displaying the use of FlexBox, Grid etc.
 
 ![screenshot](./app_screenshot.png)
 
@@ -18,12 +18,10 @@ Additional description about the project and its features.
 
 [Live Demo Link](https://livedemo.com)
 
-
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -39,21 +37,13 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Hafed**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/hafedefheij)
+- Twitter: [@twitterhandle](https://twitter.com/hafedefheij)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hafedefhej/)
 
 ## 🤝 Contributing
 
